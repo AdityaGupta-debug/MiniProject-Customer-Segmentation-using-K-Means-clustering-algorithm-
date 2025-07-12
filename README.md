@@ -8,7 +8,7 @@ This mini-project demonstrates customer segmentation using the **K-Means Cluster
 
 **Source:** [Mall Customers Dataset on Kaggle](https://www.kaggle.com/datasets/shwetabh123/mall-customers)
 
-This dataset contains information about customers visiting a mall. It includes demographic data and purchasing behavior.
+This dataset contains information about customers visiting a mall. It includes demographic data and purchasing behavior,
 
 ### 🧾 Features:
 - `CustomerID`: Unique ID assigned to each customer
